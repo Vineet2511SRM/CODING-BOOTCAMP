@@ -11,5 +11,5 @@ final=total-discount
 
 # Printing the discount and final price
 print("Total initial cost:",total)
-print("Discount applied:",discount)
+print("Discount applied:", discount)
 print("Final amount after discounting:",final)
