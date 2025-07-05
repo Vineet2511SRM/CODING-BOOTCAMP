@@ -1,19 +1,19 @@
 n=int(input("Enter the number of rows: "))
 
 # Question 1
-for i in range(1,n+1):
-    for j in range(1,i+1):
+for k in range(1,n+1):
+    for l in range(1,k+1):
         print("*",end=" ")
     print()
 
 # Question 2
-# for i in range(1,n+1):
-#     for j in range(1,i+1):
-#         print(i,end=" ")
+# for k in range(1,n+1):
+#     for l in range(1,k+1):
+#         print(k,end=" ")
 #     print()
 
 # Question 3
-# for i in range(1,n+1):
-#     for j in range(1,i+1):
-#         print(j,end=" ")
+# for k in range(1,n+1):
+#     for l in range(1,k+1):
+#         print(l,end=" ")
 #     print()
