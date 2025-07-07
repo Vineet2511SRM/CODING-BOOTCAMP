@@ -2,7 +2,7 @@
 # grand_total = 0
 # total_quantity = 0
 
-# # Level 2: Iterative Item Entry and Grand Total
+# # LEVEL 2: Iterative Item Entry and Grand Total
 # while True:
 #     # Level 1: Basic Item Entry and Total Calculation
 #     item_code = input("Enter the item code: ")
